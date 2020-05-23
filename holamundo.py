@@ -3,6 +3,7 @@
 
 # El punto de entrada se llamará main
 # Se compone de un estatuto def
+#ES SOLO PRACTICA
 
 def main():
   print("Hola mundo, ahora en Python")
